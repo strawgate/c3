@@ -110,6 +110,28 @@ C3 Protect is a set of content related to the various aspects of securing workst
 
 C3 Protect is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10398#tabs-2) and [Github](https://github.com/strawgate/C3-Protect).
 
+## [C3 Platform Kickstart](https://github.com/strawgate/C3-Platform-Kickstart)
+
+C3 Platform Kickstart focuses on providing all of the infrastructure-related content you need to properly configure you're environment.
+
+Specifically, C3 Platform Kickstart helps with:
+
+* Client Audit
+ * Issues
+ * Performance
+ * Settings
+* Client Configuration
+ * Cache Settings
+ * Command Polling
+ * CPU Usage
+ * Log Retention
+ * Relays
+* Relay configuration
+ * Cache Settings
+
+C3 Platform Kickstart is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10403#tabs-2) and [Github](https://github.com/strawgate/C3-Platform-Kickstart).
+
+
 ## [C3 Power Management](https://github.com/strawgate/C3-Power-Management)
 
 C3 Power Management is all about managing and reporting on the power policies defined and in-use on managed devices.
