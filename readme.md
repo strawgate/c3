@@ -150,7 +150,13 @@ C3 Power Management is available to be synced directly into your environment usi
 
 ## [C3 Remote Control](https://github.com/strawgate/C3-Remote-Control)
 
-C3 Remote Control provides content for reporting on remote desktop, remote assistance, and teamviewer usage in your organization.
+C3 Remote Control provides content for reporting on remote access usage in your organization.
+
+Supported Remote Control tools include:
+
+* Microsoft Remote Assistance
+* Microsoft Remote Desktop
+* TeamViewer
 
 C3 Remote Control is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10401#tabs-2) and [Github](https://github.com/strawgate/C3-Remote-Control).
 
