@@ -4,7 +4,7 @@ C3 exists to provide a large collection of content that is general enough to be 
 
 # Production Sites
 
-## [C3 Inventory](https://github.com/strawgate/C3-Inventory)
+## [C3 Inventory](./Inventory/Index.html)
 
 The goal of C3 Inventory is to provide expansive inventory capabilities for organizations to inventory and assess their endpoint and server environments.
 

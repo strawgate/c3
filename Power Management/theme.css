@@ -1,18 +1,7 @@
-.content blockquote {
-  padding: 0px 0 !Important;
-}
-
-.content li > ul {
-  padding: 0px 0 !important;
-}
-
-
 .title-card {
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale; }
-
-
 
 .title-card {
   background: #1d3b47;
