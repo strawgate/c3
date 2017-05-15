@@ -4,7 +4,7 @@ C3 exists to provide a large collection of content that is general enough to be 
 
 # Production Sites
 
-## [C3 Inventory](./Inventory/Index.html)
+## [C3 Inventory](./Inventory/index.html)
 
 The goal of C3 Inventory is to provide expansive inventory capabilities for organizations to inventory and assess their endpoint and server environments.
 
@@ -43,7 +43,7 @@ C3 Inventory also includes the following Dashboards/Wizards:
 
 C3 Inventory is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10400#tabs-2) and [Github](https://github.com/strawgate/C3-Inventory).
 
-## [C3 Patch](https://github.com/strawgate/C3-Patch)
+## [C3 Patch](./Patch/index.html)
 
 C3 Patch is both a set of tools and a content site. The C3 Patch Content Site hosts patches for more than 80 third-party applications covering software on both macOS and Windows.
 
@@ -82,7 +82,7 @@ If you have issues with a C3 Patch or you would like to recommend changes to the
 
 C3 Patch is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10397).
 
-## [C3 Protect](https://github.com/strawgate/C3-Protect)
+## [C3 Protect](./Protect/index.html)
 
 C3 Protect is a set of content related to the various aspects of securing workstations. From Application Whitelisting to Anti-Virus management and Endpoint Encryption, C3 Protect lets organizations use IBM BigFix for things that would typically require engaging with a third-party vendor.
 
@@ -110,7 +110,7 @@ C3 Protect is a set of content related to the various aspects of securing workst
 
 C3 Protect is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10398#tabs-2) and [Github](https://github.com/strawgate/C3-Protect).
 
-## [C3 Platform Kickstart](https://github.com/strawgate/C3-Platform-Kickstart)
+## [C3 Platform Kickstart](./Platform Kickstart/index.html)
 
 C3 Platform Kickstart focuses on providing all of the infrastructure-related content you need to properly configure you're environment.
 
@@ -132,7 +132,7 @@ Specifically, C3 Platform Kickstart helps with:
 C3 Platform Kickstart is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10403#tabs-2) and [Github](https://github.com/strawgate/C3-Platform-Kickstart).
 
 
-## [C3 Power Management](https://github.com/strawgate/C3-Power-Management)
+## [C3 Power Management]((./Power Management/index.html))
 
 C3 Power Management is all about managing and reporting on the power policies defined and in-use on managed devices.
 
@@ -148,7 +148,7 @@ C3 Power Management is available to be synced directly into your environment usi
 
 # Beta Sites
 
-## [C3 Remote Control](https://github.com/strawgate/C3-Remote-Control)
+## [C3 Remote Control](./Remote Control/index.html)
 
 C3 Remote Control provides content for reporting on remote access usage in your organization.
 
@@ -160,7 +160,7 @@ Supported Remote Control tools include:
 
 C3 Remote Control is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10401#tabs-2) and [Github](https://github.com/strawgate/C3-Remote-Control).
 
-## [C3 Software Usage](https://github.com/strawgate/C3-Software-Usage)
+## [C3 Software Usage](./Software Usage/index.html)
 
 C3 Software Usage uses AppLocker in Audit-Only mode on Windows to provide application usage tracking including usage count and last use date for various applications.
 
