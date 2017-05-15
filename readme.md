@@ -110,7 +110,7 @@ C3 Protect is a set of content related to the various aspects of securing workst
 
 C3 Protect is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10398#tabs-2) and [Github](https://github.com/strawgate/C3-Protect).
 
-## [C3 Platform Kickstart](./Platform Kickstart/index.html)
+## [C3 Platform Kickstart](./Platform%20Kickstart/index.html)
 
 C3 Platform Kickstart focuses on providing all of the infrastructure-related content you need to properly configure you're environment.
 
@@ -132,7 +132,7 @@ Specifically, C3 Platform Kickstart helps with:
 C3 Platform Kickstart is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10403#tabs-2) and [Github](https://github.com/strawgate/C3-Platform-Kickstart).
 
 
-## [C3 Power Management]((./Power Management/index.html))
+## [C3 Power Management]((./Power%20Management/index.html))
 
 C3 Power Management is all about managing and reporting on the power policies defined and in-use on managed devices.
 
@@ -148,7 +148,7 @@ C3 Power Management is available to be synced directly into your environment usi
 
 # Beta Sites
 
-## [C3 Remote Control](./Remote Control/index.html)
+## [C3 Remote Control](./Remote%20Control/index.html)
 
 C3 Remote Control provides content for reporting on remote access usage in your organization.
 
@@ -160,7 +160,7 @@ Supported Remote Control tools include:
 
 C3 Remote Control is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10401#tabs-2) and [Github](https://github.com/strawgate/C3-Remote-Control).
 
-## [C3 Software Usage](./Software Usage/index.html)
+## [C3 Software Usage](./Software%20Usage/index.html)
 
 C3 Software Usage uses AppLocker in Audit-Only mode on Windows to provide application usage tracking including usage count and last use date for various applications.
 
