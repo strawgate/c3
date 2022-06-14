@@ -166,6 +166,12 @@ C3 Software Usage uses AppLocker in Audit-Only mode on Windows to provide applic
 
 C3 Software Usage is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10406#tabs-2) and [Github](https://github.com/strawgate/C3-Software-Usage).
 
+## [C3 Windows Audit Policy](./Windows%20Audit%20Policy/index.html)
+
+C3 Windows Audit Policy provides extensive content for configuring the Advanced Audit Configuration in Windows. This includes content for measuring Audit Policies, meeting STIG compliance relative to Audit Policies, measuring event volume, and identifying potential configuraiton issues.
+
+C3 Windows Audit Policy is available via [Github](https://github.com/strawgate/C3-Windows-Audit-Policy).
+
 # Automatic Content Syncing
 
 ## BigFix.Me Sync Tool
