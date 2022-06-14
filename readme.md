@@ -132,7 +132,7 @@ Specifically, C3 Platform Kickstart helps with:
 C3 Platform Kickstart is available to be synced directly into your environment using the BigFix.Me Sync Tool and it's content can be downloaded individually from [BigFix.Me](https://bigfix.me/site/details/10403#tabs-2) and [Github](https://github.com/strawgate/C3-Platform-Kickstart).
 
 
-## [C3 Power Management]((./Power%20Management/index.html))
+## [C3 Power Management](./Power%20Management/index.html)
 
 C3 Power Management is all about managing and reporting on the power policies defined and in-use on managed devices.
 
